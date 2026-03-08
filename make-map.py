@@ -5,7 +5,7 @@ import geopandas as gpd
 def main():
 
     # List of countries you've visited (can also use ISO codes)
-    visited_countries = {'US', 'MX', 'ES', 'CA', 'KY', 'BZ', 'GT', 'QA', 'VN', 'JP', 'MV'}
+    visited_countries = {'US', 'MX', 'BZ', 'HN', 'CA', 'VN', 'TH', 'SG', 'DE', 'QA', 'PK'}
     about_to_visit = {}
 
     # Load world geometries
